@@ -15,7 +15,7 @@ fom.addEventListener("submit", (e) => {
   } else if (name === "aysha") {
     resultArea.innerText = "She is loves Raj.";
   } else if (name === "israt") {
-    resultArea.innerText = "She is....";
+    resultArea.innerText = "She is Travel";
   } else if (name === "sumona") {
     resultArea.innerText =
       "Fardin Loves you..Do you acept Fardin Proposal Yet ";
